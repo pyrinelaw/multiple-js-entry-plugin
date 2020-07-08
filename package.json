@@ -1,6 +1,6 @@
 {
   "name": "multiple-js-entry-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "动态载入 js 入口文件",
   "main": "./plugin/index.js",
   "author": "Pyrine.Law <petrus_law@yeah.net>",

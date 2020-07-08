@@ -1,6 +1,6 @@
 ## multiple-js-entry-plugin
 
-webpack 插件，动态载入 js 入口文件
+webpack 插件，动态载入 js 入口文件，webpack >= 4.0.0
 
 ### 使用示例
 
